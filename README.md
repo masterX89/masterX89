@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi This is Hankai Xia 👋 
+
+[![](https://img.shields.io/badge/Github-masterX89-brightgreen?&logo=github)](https://github.com/masterX89)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=masterX89.readme) -->
+
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about anything
 
 <!--
 **masterX89/masterX89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
